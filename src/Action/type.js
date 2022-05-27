@@ -1,0 +1,4 @@
+ export const REQUEST_USER_DATA= "REQUEST_USER_DATA";
+ export const CHANGE_USER_DATA= "CHANGE_USER_DATA";
+
+     
